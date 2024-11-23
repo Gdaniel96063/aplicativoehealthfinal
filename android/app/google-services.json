@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "605104643567",
+    "project_id": "aplicativoehadministrativo",
+    "storage_bucket": "aplicativoehadministrativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:82c12d554c9d7c18556a1a",
+        "android_client_info": {
+          "package_name": "com.proyect.aplicativoadministrativoypersonalmedico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:62302569a6c7f967556a1a",
+        "android_client_info": {
+          "package_name": "com.proyecto.aplicativo.aplicativoadministrativopersonalmedicoflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:19cac664c7fe8d85556a1a",
+        "android_client_info": {
+          "package_name": "com.proyecto.aplicativo.aplicativopacienteflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:7d67c666a44274b4556a1a",
+        "android_client_info": {
+          "package_name": "com.proyecto.aplicativoadministradorypersonalmedico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:e2e352b447f69881556a1a",
+        "android_client_info": {
+          "package_name": "com.proyecto.aplicativoehealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605104643567:android:1c8bee9e455ad525556a1a",
+        "android_client_info": {
+          "package_name": "com.proyecto.aplicativopaciente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7kgGs1caM64uAp5w6Piljfgfaw31CEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
